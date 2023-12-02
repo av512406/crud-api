@@ -6,7 +6,8 @@ URL = "https://sqsqh2gy26.execute-api.ap-southeast-2.amazonaws.com/dev/users"
 
 ## Endpoints :
 
-### Get Request 
+### Get  Request :[🔗Link](https://sqsqh2gy26.execute-api.ap-southeast-2.amazonaws.com/dev/users)
+
 ### Post Request :
 using body as 
 ```Javascript
